@@ -1,0 +1,11 @@
+Django>=5.2,<5.3
+djangorestframework
+django-cors-headers
+gunicorn
+whitenoise
+
+# Face verification + OCR
+deepface
+tf-keras
+opencv-python-headless
+easyocr
