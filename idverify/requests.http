@@ -1,0 +1,7 @@
+POST http://127.0.0.1:8000/user/print_user/
+Content-Type: application/json
+
+{
+    "name": "Gabriel",
+    "age": "22"
+}
